@@ -1,4 +1,0 @@
-newdata.csv filter=lfs diff=lfs merge=lfs -text
-hello.csv filter=lfs diff=lfs merge=lfs -text
-output.csv filter=lfs diff=lfs merge=lfs -text
-DATA filter=lfs diff=lfs merge=lfs -text
